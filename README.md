@@ -28,5 +28,6 @@ object detection on aerial & satellite imagery · Docker / CI.
   released EPA data product. *tidymodels · sf · terra.*
 - **[DomesticWells](https://github.com/ARMurray/DomesticWells)** — Reproducible
   national estimate of private domestic-well locations from three decades of
-  Census data (Murray et al., 2020). *sf · raster · multi-vintage boundary
-  harmonization.*
+  Census data, published in
+  [Murray et al. (2020), *JAWRA*](https://doi.org/10.1111/1752-1688.12937).
+  *sf · raster · multi-vintage boundary harmonization.*
